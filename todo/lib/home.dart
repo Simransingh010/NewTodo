@@ -1,6 +1,3 @@
-import 'dart:ffi';
-
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:todo/colors.dart';
 import '../model/todo.dart';
